@@ -24,3 +24,6 @@ Integridade da Listagem: Verificação se os valores exibidos na tabela correspo
 
 Integridade no cadastro: Verificação se as informações adicionadas no formulário vem com algum erro no endpoint ou tela.
 
+# 📌 Link da planilha com os testes:
+https://docs.google.com/spreadsheets/d/1qhD0-ksNWTiANWuu0PP642ZCTBqW4P5b0lesroW7EQA/edit?gid=0#gid=0
+
